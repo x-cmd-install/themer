@@ -83,11 +83,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 137,
+  "forks_count": 138,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 19,
+  "open_issues_count": 20,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -121,8 +121,8 @@
     "xcode"
   ],
   "visibility": "public",
-  "forks": 137,
-  "open_issues": 19,
+  "forks": 138,
+  "open_issues": 20,
   "watchers": 5853,
   "default_branch": "main",
   "permissions": {
@@ -133,6 +133,6 @@
     "pull": false
   },
   "temp_clone_token": "",
-  "network_count": 137,
+  "network_count": 138,
   "subscribers_count": 35
 }
